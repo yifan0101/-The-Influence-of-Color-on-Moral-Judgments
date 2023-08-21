@@ -1,3 +1,7 @@
+% Experiment Title: The Influence of Color on Moral Judgments( Inspired by the Stroop Task )
+% Experiment Date: March 14, 2022
+% Experiment Author: Yifan Meng
+
 %% Preliminary
 clear;clc
 rng('default')
