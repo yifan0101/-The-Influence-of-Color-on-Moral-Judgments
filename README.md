@@ -10,6 +10,10 @@ The experimental program was developed and data were recorded using Matlab Psych
 
 Design matrix can be found in the attached Excel document.
 
+![wps_doc_0](https://github.com/yifan0101/-The-Influence-of-Color-on-Moral-Judgments/assets/141273134/840df16e-a904-4702-8f5f-d13eeed45bed)
 
-
-
+References：
+- [1]殷融.明暗视觉线索对道德判断的影响[C]//第十五届全国心理学学术会议论文摘要集[出版者不详],2012:74-75.\n
+- [2]雷霞.黑白分明：黑白视觉对比极化道德判断[D].广西师范大学，2015.\n
+- [3]龚铭杰，周君，甘甜，郑燕，宋丹丹，章语奇.颜色背景对道德判断的影响[J].应用心理学，2021,27(02):103-110.\n
+- [4]方激.彩色对道德判断的影响及其神经机制的研究[D].浙江理工大学，2017.
